@@ -1,0 +1,80 @@
+time_call_foo: Thu Oct  7 19:57:36 2021
+result: <generator object my_gen at 0x000002014D237D60>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 19:57:36 2021
+result: <generator object my_gen at 0x000002014D237EB0>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 19:57:36 2021
+result: <generator object my_gen at 0x000002014D237EB0>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 19:57:36 2021
+result: <generator object my_gen at 0x000002014D237EB0>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 19:57:36 2021
+result: <generator object my_gen at 0x000002014D237EB0>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 19:57:58 2021
+result: <generator object my_gen at 0x0000015D0F997D60>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 19:57:58 2021
+result: <generator object my_gen at 0x0000015D0F997EB0>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 19:57:58 2021
+result: <generator object my_gen at 0x0000015D0F997EB0>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 19:57:58 2021
+result: <generator object my_gen at 0x0000015D0F997EB0>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 19:57:58 2021
+result: <generator object my_gen at 0x0000015D0F997EB0>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 19:59:27 2021
+result: <generator object my_gen at 0x0000027B6BD07D60>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 19:59:27 2021
+result: <generator object my_gen at 0x0000027B6BD07C80>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 19:59:27 2021
+result: <generator object my_gen at 0x0000027B6BD07C80>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 19:59:27 2021
+result: <generator object my_gen at 0x0000027B6BD07C80>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 19:59:27 2021
+result: <generator object my_gen at 0x0000027B6BD07C80>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 20:01:47 2021
+result: <generator object my_gen at 0x0000029659E27D60>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 20:01:47 2021
+result: <generator object my_gen at 0x0000029659E27C80>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 20:01:47 2021
+result: <generator object my_gen at 0x0000029659E27C80>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 20:01:47 2021
+result: <generator object my_gen at 0x0000029659E27C80>
+foo_name: my_gen
+foo_argument: result.json
+time_call_foo: Thu Oct  7 20:01:47 2021
+result: <generator object my_gen at 0x0000029659E27C80>
+foo_name: my_gen
+foo_argument: result.json
